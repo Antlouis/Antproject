@@ -1,0 +1,45 @@
+10h-14h :
+
+A long part of this day is about attributing each other roles. We come to the following agreement:  - amelie ( communication manager ) 
+                    - anne pia ( Time manager)
+                    - Louis ( data manager )
+                    - Leon ( lab manager)
+
+Two main idea emerge. The first one is trying to focus on polluted water filtration and the second one is concerning the impact of magnetic fields on the behaviour of ants.
+
+
+
+14h-19h :
+
+This part of the day is about choosing the right idea and trying to develop the preparation needed ( pre-protocol , material … ) 
+
+After meeting Ivan and Aimen we choose to do the ant project. 
+After a bit of work on the idea we manage to get more precise and then we meet Tamara and Dule to talk about our project. 
+When we come out of the meeting we have a clearer idea of what is our project :
+
+A two part project trying to answer two questions : 
+
+Can ants react to other ants species pheromones ? 
+
+How do ants react to magnetic changes in their environment ?
+
+
+19h-23h :
+
+Preparation of a the 1st draft of the protocol and building of the grid the ants are going to be put in.
+
+Concerning the protocol : 
+we firstly focus on the first question 
+we are suppose to have two species of ants at our disposition, a grid to put them into and some sugary water to attract them.
+we will first divide the two population in half so that we can repeat the experiment 1 day after
+we put the first population of ant at the begining of the grid and put drop of sugary food on the other side . 
+Supposely the ants manage to find the food and draw a trail of pheromone from their “home” to the food location 
+we then manage to get the ants out of the grid using a door system 
+We then put in the grid the second population and see ,using the detector, where the ants are mostly located and if they respond to stimulus created by other species.
+ 
+in the meantime we isolate a group of ants that we train to follow the same certain path for days.
+the grid they are in is located between two electromagnets that we control using arduino.
+the last day we reverse the circuit and see of any changes occur in the ants behaviour. 
+
+
+Tonight the grid are being made in openlab using plexiglass. We use plexiglass so that our light detector can see trough and count the number of ants passing by. 
