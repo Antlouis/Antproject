@@ -1,0 +1,45 @@
+On a eu rdv avec Mislav, il nous donné la salle avec les 2 espèces de fourmis (des messor sancta et des fire ants) et les électroaimants. On a nettoyé les maisons des fourmis et appris en s’en occuper correctement.
+
+On se met enfin d’accord sur le protocole à suivre :
+
+First parameter :
+Test the interspecies’ reaction to pheromones
+
+-Built a kind of T with tube
+-In one side of the T put a cotton ball full of sweetened water and close the other side with just a cotton ball
+-Put 3 T tubes in each home of the 2 differents ants species during 24h 
+-Remove the ants
+-Remove the cotton ball and put in the end of the tube a cotton ball full of sweetened
+OR-Remove the cotton ball and the cotton ball full of sweetened water and put just cotton in the two extremity
+-Place one T in an other box with 30 ants of the other species
+-Repere the 100 first side of the T choose by the ants
+-Repeat this for the 5 other T tubes
+-For the negative control put a new T with just cotton ball on the extremity, without any contact with the other specie, in the box with 30 ants
+-For the positive controle
+
+Second parameter :
+Test the reaction of ants to magnetic field
+
+-Take T tubes
+-Take a flexible tube and link the T to a box with 30 ants
+- Put on one side of the T a cotton ball full of sweetened water and on the other just a cotton ball.
+-Put the T in the magnetic field created by the electromagnet
+-Repeat this four time and  place each T with the sugar side in one cardinal point
+-After 2 days inverse the magnetic field and observe
+
+
+Apres quelque recherche bibliographique on comprend que les fourmis se comporte mieux lorsque placer dans des tube on decide donc de s’en procurer.
+
+On est aller chez Weber matériaux et comme ils n’avaient pas de plaques en plexi pour aller dans la découpeuse laser, on a acheter des tubes de 12 mm de diamètre extérieur et 8 de diamètre intérieur.
+
+A l’Open lab, on a découpé ces tubes en tronçons de 10 et 8 cm, dans les tronçons de 10 cm on a percé un trou au milieu pour faire entrer le tube de 8 cm dedans et ainsi formé un T.
+On a ainsi créer 13 T.
+
+On a bouché une branche du T à l’intersection avec une boule de coton et on a mis à l’extrémité de l’autre branche une boule de coton pleine d’eau sucrée. On a fait ça pour 6 T et on a placé 3 T dans chacunes des 2 espèces de fourmis.
+
+On a aussi pris 4 autres T dans lequel on a placé une boule de coton à une extrémité d’une branche et une boule de coton pleine d’eau sucré à l’autre extrémité de l’autre branche. On a relié ces T avec des tubes flexibles à des boites contenant chacunes 30 fourmis. Dans deux boîtes on a mis des messor sancta et dans les deux autres les fire ants. On a placé ces T dans le champs magnétique créé par les électroaimant que Amodsen nous a appris à controler.
+
+
+On a commencé à fabriquer nos 9 capteurs et les boites qui vont autour.
+On veut quantifier le passage des fourmis à l’aide de phtosensor qui jourons le role de detecteur de mouvements.  Nos capteurs sont composés d’une LED, d’un potentiometre et d’un capteur LDR. Pour éviter que la lumière extérieure ne vienne perturber nos mesures, on a créer des boites qui s’adaptent autour des tubes. ( de dimension 2,7*3*4 cm ) on les fabrique avec la decoupeuse laser. On prevois biensur des troues qui laisseront passer tube et cable de branchement.
+
