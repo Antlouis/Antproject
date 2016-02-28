@@ -1,0 +1,23 @@
+
+Placer des controle nourriture/nourriture dans chaque boite de fourmis.
+Placer 2 T nourriture/branche bouché dans chaque boite pour déposage de phéromone
+Echange phéromones d’une espèce dans la boite de l’autre espèce en débouchant la branche et n mettent de la nourriture des 2 côté.
+
+
+Cette journée à été integralement composée d’experiences:
+montage et calibrage des capteurs
+faire en sorte qu’ils soient tous réglés à un potentiomètre fonctionnel afin qu’ils soient calibrés sur la même valeur de luminosité
+integration des capteurs autour des T et tests avec des fourmis pour s’assurer de la pertinence de la mesure
+Contrôles négatifs et positifs pour les échanges de phéromones des deux espèces
+	négatif: pas de phéromones dans les tubes, mais de la nourriture des deux côtés
+positif: des phéromones de la même espèce dans une seule moitié du T uniquement et de la nourriture des deux côtés
+
+Experiences et réplicats des phéromones + analyse de data (phéromones de l’autre espèce sur une moitié du T, exterieur des T éthanolée et nourriture des deux côtés.
+
+Analyse des données
+
+Experience du magnetisme:
+soumettre pendant deux jours les fourmis à un magnetisme de 500 fois celui de la terre. Mettre de la nourriture à un pôle du T uniquement.
+inverser le champ, la nouriture à chaque bout, et le tube lavé de phéromones. Compter le nombre de passage de chaque côté et comparer avec le côté ou se trouvait précedemment la nourriture par comparaison avec l’orientation du champ magnetique.
+
+biais: excitation des fourmis et temps passé hors du champ magnétique durant la periode d’inversement du champ.
